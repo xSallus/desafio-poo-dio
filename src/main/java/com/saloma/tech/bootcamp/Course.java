@@ -1,11 +1,9 @@
-
-
-
-
-
-
-
 package com.saloma.tech.bootcamp;
+
+
+
+
+
 
 public class Course extends Content {
 	private Integer workload;
