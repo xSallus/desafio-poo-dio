@@ -126,6 +126,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+target/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -220,3 +221,4 @@ hs_err_pid*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse,visualstudiocode
+run.sh
